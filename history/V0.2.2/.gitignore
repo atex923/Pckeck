@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+build_nuitka/
+*.fck
+*_比對標記.pdf
